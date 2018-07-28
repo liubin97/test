@@ -1,2 +1,6 @@
 master edit
+<<<<<<< HEAD
 b1 edit
+=======
+b2 edit
+>>>>>>> b2
